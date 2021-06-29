@@ -2,9 +2,9 @@
 
 VRoid sample models, all CC0 licensed
 
-![](https://i.imgur.com/6IYYnWw.jpg)
+![](https://i.imgur.com/ISFeAWL.jpg)
 
-The CC license* for this model is CC0. This model can be edited and used freely. (Please use this model appropriately, within the scope of common sense.)
+The CC license* for this model is CC0. This model can be edited and used freely. (Please use these models appropriately)
 
 About CC0: http://creativecommons.org/publicdomain/zero/1.0/
 
