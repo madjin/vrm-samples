@@ -1,0 +1,17 @@
+This folder contains all relevant exports for VROID STUDIOS default *female* characters.
+
+Contained within each character folder is their assets (exported textures).
+
+There are also their Hair Presets - 
+PLEASE read the *readme* inside the Hair Editor folder for details on how to use them properly!
+
+
+
+
+
+
+Got questions, need help, or an asset is broken?
+
+Contact me at Vianvolaeus#5457 on Discord, or join Kami Collective! @ https://discord.gg/uH4svUS 
+
+ 

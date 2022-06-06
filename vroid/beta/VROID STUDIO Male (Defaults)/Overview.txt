@@ -1,0 +1,25 @@
+This section contains exported default assets from the VRoid Studio *male* creator.
+
+Here you can find layer guides for everything in VRoid by default, as well as default textures.
+
+These can be useful for creating custom assets, or bringing back the defaults if you accidentally messed something up!
+
+
+
+Everything should be organised nicely - start with the area of VRoid you are working in (Face Editor, etc)
+
+Then select the Folder matching to the area you wish to import to (Eyebrows, etc)
+
+Then select style you want (Human, Android etc)
+
+Then select your asset.
+
+
+
+
+
+Got questions, need help, or an asset is broken?
+
+Contact me at Vianvolaeus#0076 on Discord, or join NOVA! @ https://discord.gg/UFY3VeqwWN 
+
+I hope you enjoy!
